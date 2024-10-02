@@ -5,7 +5,7 @@
 ## **Full Stack Developer**
 
 # 💫 About Me:
-👨‍💻 Software Engineer sharing about my journey and learnings in tech<br>🎓 Final Year Computer Science studying at Vishwakarma Institute of Information Technology,Pune,India<br>🎨 Reading books on Computer Science, building exciting projects, and playing Chess<br>💭 Currently learning about GoLang and building GoLang projects
+👨‍💻 Software Engineer sharing about my journey and learnings in tech<br>🎓 Final Year Computer Science student studying at Vishwakarma Institute of Information Technology,Pune,India<br>🎨 Reading books on Computer Science, building exciting projects, and playing Chess<br>💭 Currently learning about GoLang and building GoLang projects
 
 
 ## 🌐 Socials:
@@ -13,6 +13,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siddhantkandi_17) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SiddhantKandi) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/siddhant_kandi)
+[![Chess.com](https://img.shields.io/badge/Chess.com-%23000000.svg?logo=Chess.com&logoColor=green)](https://www.chess.com/member/siddhantkandi_81)
+
 
 
 # 💻 Tech Stack:
